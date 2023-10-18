@@ -6,10 +6,10 @@
     "dynamic": 2,
     "sustainDynamic": "-1",
     "voices": [
-        "orchestra/cello.json",
         "voices/soprano.json",
-        "orchestra/double bass.json",
+        "orchestra/cello.json",
         "voices/alto.json",
+        "orchestra/double bass.json",
         "orchestra/violin I.json",
         "orchestra/violin II.json",
         "voices/bass.json",
