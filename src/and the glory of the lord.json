@@ -2,18 +2,18 @@
     "time": 12,
     "beat": 2,
     "sustain": -1,
-    "transpose": 2,
+    "transpose": -3,
     "dynamic": 2,
     "sustainDynamic": "-1",
     "voices": [
-        "strings/cello.json",
-        "strings/double bass.json",
-        "strings/violin I.json",
-        "strings/violin II.json",
-        "strings/viola.json",
-        "voices/tenor.json",
-        "voices/bass.json",
+        "orchestra/cello.json",
         "voices/soprano.json",
-        "voices/alto.json"
+        "orchestra/double bass.json",
+        "voices/alto.json",
+        "orchestra/violin I.json",
+        "orchestra/violin II.json",
+        "voices/bass.json",
+        "orchestra/viola.json",
+        "voices/tenor.json"
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "instrument": "harp",
+    "instrument": "bit",
     "notes": [
         "| 1", "r 2b", "e 2b", "cs^ 2b",
         "| 2", "b 2b", "gs 2b", "cs^ 2b",
@@ -12,6 +12,11 @@
         "| 9", "e 2b", "gs 2b", "a 2b",
         "| 10", "a 4b", { "name": "gs 2b", "sustain": -2 },
         "| 11", "a 4b", "r 2b",
-        "| 12"
+        "||12",
+        "||13",
+        "| 14", "r 2b", "a 2b", "cs^ 2b",
+        "| 15", "b 2b.", "b", "a^ 2b",
+        "| 16", { "name": "a^ 2b", "sustain": true }, "a^ 2b", { "name": "e^ 2b", "sustain": -2 },
+        "| 17", "e^ 4b", "r 2b"
     ]
 }
