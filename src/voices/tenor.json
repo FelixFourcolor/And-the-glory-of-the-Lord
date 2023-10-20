@@ -35,7 +35,7 @@
     "| 33", "r 2b", "e^ 2b", "gs^ 2b",
     "| 34", { "name": "fs^ 2b.", "sustain": true }, "fs^", "e^ 2b",
     "| 35", { "name": "e^ 2b", "sustain": true }, "e^ 2b", "fs^ 2b",
-    "| 36", "e^ 2b.", { "name": "b", "sustain": true }, "a 2b",
+    "| 36", "e^ 2b.", "b", { "name": "a 2b -1", "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 37", { "name": "b 2b", "sustain": true }, "b 4b",
     "| 38", { "name": "b 3b", "dynamic": 2, "sustain": true }, { "name": "b 3b", "dynamic": 1, "sustainDynamic": 1, "sustain": true }
 ]
