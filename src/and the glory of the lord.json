@@ -6,15 +6,17 @@
     "dynamic": 2,
     "sustainDynamic": "-1",
     "voices": [
-        { "instrument": "bell", "notes": "orchestra/violin I.json" },
-        "voices/soprano.json",
-        "voices/alto.json",
-        "orchestra/cello.json",
-        "orchestra/violin I.json",
-        "orchestra/double bass.json",
-        "orchestra/violin II.json",
-        "orchestra/viola.json",
-        "voices/bass.json",
-        "voices/tenor.json"
+        { "notes": "orchestra/violin I.json", "instrument": "bell" },
+        { "notes": "orchestra/cello.json", "instrument": "guitar" },
+        { "notes": "orchestra/cello.json", "instrument": "bass" },
+        { },
+        { "notes": "voices/soprano.json", "instrument": "pling" },
+        { "notes": "orchestra/violin I.json", "instrument": "flute" },
+        { "notes": "voices/alto.json", "instrument": "pling" },
+        { "notes": "orchestra/violin II.json", "instrument": "bit" },
+        { },
+        { "notes": "orchestra/viola.json", "instrument": "harp" },
+        { "notes": "voices/bass.json", "instrument": "guitar" },
+        { "notes": "voices/tenor.json", "instrument": "guitar" }
     ]
 }

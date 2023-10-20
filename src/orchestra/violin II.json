@@ -1,22 +1,19 @@
-{
-    "instrument": "bit",
-    "notes": [
-        "| 1", "r 2b", "e 2b", "cs^ 2b",
-        "| 2", { "name": "b 2b", "sustain": true }, "gs 2b", "cs^ 2b",
-        "| 3", { "name": "a 2b", "sustain": true }, "d^ 2b", { "name": "b 2b", "sustain": -2 },
-        "| 4", "e^ 2b", { "name": "cs^ 4b 2b", "sustain": true },
-        { "name": "b 4b 2b", "sustain": true },
-        "a 2b", { "name": "a 2b", "sustain": -2 },
-        "| 7", "gs 2b.", { "name": "b", "sustain": true }, "a", "gs",
-        "| 8", "fs 2b.", { "name": "a", "sustain": true }, "gs", "fs",
-        "| 9", { "name": "e 2b", "sustain": true }, "gs 2b", "a 2b",
-        "| 10", "a 4b", { "name": "gs 2b", "sustain": -2 },
-        "| 11", "a 4b", "r 2b",
-        "||12",
-        "||13",
-        "| 14", "r 2b", "a 2b", "cs^ 2b",
-        "| 15", { "name": "b 2b.", "sustain": true }, "b", "a^ 2b",
-        "| 16", { "name": "a^ 2b", "sustain": true }, "a^ 2b", { "name": "e^ 2b", "sustain": -2 },
-        "| 17", "e^ 4b", "r 2b"
-    ]
-}
+[
+    "| 1", "r 2b", "e 2b", "cs^ 2b",
+    "| 2", { "name": "b 2b", "sustain": true }, "gs 2b", "cs^ 2b",
+    "| 3", { "name": "a 2b", "sustain": true }, "d^ 2b", { "name": "b 2b", "sustain": -2 },
+    "| 4", "e^ 2b", { "name": "cs^ 4b 2b", "sustain": true },
+    { "name": "b 4b 2b", "sustain": true },
+    "a 2b", { "name": "a 2b", "sustain": -2 },
+    "| 7", "gs 2b.", { "name": "b", "sustain": true }, "a", "gs",
+    "| 8", "fs 2b.", { "name": "a", "sustain": true }, "gs", "fs",
+    "| 9", { "name": "e 2b", "sustain": true }, "gs 2b", "a 2b",
+    "| 10", "a 4b", { "name": "gs 2b", "sustain": -2 },
+    "| 11", "a 4b", "r 2b",
+    "||12",
+    "||13",
+    "| 14", "r 2b", "a 2b", "cs^ 2b",
+    "| 15", { "name": "b 2b.", "sustain": true }, "b", "a^ 2b",
+    "| 16", { "name": "a^ 2b", "sustain": true }, "a^ 2b", { "name": "e^ 2b", "sustain": -2 },
+    "| 17", "e^ 4b", "r 2b"
+]

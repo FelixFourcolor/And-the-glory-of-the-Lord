@@ -1,22 +1,19 @@
-{
-    "instrument": "flute",
-    "notes": [
-        "| 1", "r 2b", "cs 2b", "a_ 2b",
-        "| 2", { "name": "e 2b.", "sustain": true }, "d", "cs 2b",
-        "| 3", { "name": "fs 2b", "sustain": true }, "fs 2b", { "name": "gs 2b", "sustain": -2 },
-        "| 4", "a 4b", { "name": "e 2b", "sustain": -2 },
-        "| 5", "d 2b.", { "name": "fs", "sustain": true }, "e", "d",
-        "| 6", "cs 2b.", { "name": "e", "sustain": true }, "d", "cs",
-        "| 7", "b_ 2b", { "name": "e 4b 2b", "sustain": true },
-        { "name": "d 4b 2b.", "sustain": true },
-        "e", "cs 2b 1b",
-        "b_", { "name": "cs 2b.", "trill": "b_ 2b. -2", "sustain": true }, "a_",
-        "| 11", "a_ 4b", "r 2b",
-        "||12",
-        "||13",
-        "| 14", "r 2b", "e 2b", "a 2b",
-        "| 15", { "name": "gs 2b.", "sustain": true }, "fs", "e 2b",
-        "| 16", { "name": "d^ 2b", "sustain": true }, "d^ 2b", { "name": "b 2b", "sustain": -2 },
-        "| 17", "cs^ 4b", "r 2b"
-    ]
-}
+[
+    "| 1", "r 2b", "cs 2b", "a_ 2b",
+    "| 2", { "name": "e 2b.", "sustain": true }, "d", "cs 2b",
+    "| 3", { "name": "fs 2b", "sustain": true }, "fs 2b", { "name": "gs 2b", "sustain": -2 },
+    "| 4", "a 4b", { "name": "e 2b", "sustain": -2 },
+    "| 5", "d 2b.", { "name": "fs", "sustain": true }, "e", "d",
+    "| 6", "cs 2b.", { "name": "e", "sustain": true }, "d", "cs",
+    "| 7", "b_ 2b", { "name": "e 4b 2b", "sustain": true },
+    { "name": "d 4b 2b.", "sustain": true },
+    "e", "cs 2b 1b",
+    "b_", { "name": "cs 2b.", "trill": "b_ 2b. -2", "sustain": true }, "a_",
+    "| 11", "a_ 4b", "r 2b",
+    "||12",
+    "||13",
+    "| 14", "r 2b", "e 2b", "a 2b",
+    "| 15", { "name": "gs 2b.", "sustain": true }, "fs", "e 2b",
+    "| 16", { "name": "d^ 2b", "sustain": true }, "d^ 2b", { "name": "b 2b", "sustain": -2 },
+    "| 17", "cs^ 4b", "r 2b"
+]
