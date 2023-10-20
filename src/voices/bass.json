@@ -15,8 +15,8 @@
         "||12",
         "||13",
         "| 14", "r 2b", "cs 2b", "a_ 2b",
-        "| 15", "e 2b.", "d", "cs 2b",
+        "| 15", { "name": "e 2b.", "sustain": true }, "d", "cs 2b",
         "| 16", { "name": "fs 2b", "sustain": true }, "fs 2b", "gs 2b",
-        "| 17", "a 4b", "r 2b"
+        "| 17", { "name": "a 4b", "sustain": -2 }, "r 2b"
     ]
 }

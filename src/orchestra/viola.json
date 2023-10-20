@@ -3,22 +3,22 @@
     "notes": [
         { "beat": 4 },
         "| 1", "r", "a", "e",
-        "| 2", "e 2b", { "name": "e", "sustain": -2 },
-        "| 3", "d^", "d", { "name": "e", "sustain": -2 },
+        "| 2", "e 2b", "e",
+        "| 3", { "name": "d^", "sustain": true }, "d", { "name": "e", "sustain": -2 },
         "| 4", "e", "a 2b",
         "| 5", "a", "e 2b",
         "| 6", "e 2b", "e",
         "| 7", "e 2b", "e",
         "| 8", "cs", "d 2b",
-        "| 9", "b", "b_", { "name": "fs", "sustain": -2 },
-        "| 10", "fs", "b_", { "name": "e", "sustain": -2 },
+        "| 9", { "name": "b", "sustain": true }, "b_", "fs",
+        "| 10", { "name": "fs", "sustain": true }, "b_", { "name": "e", "sustain": -2 },
         "| 11", "cs 2b", "r",
         "||12",
         "||13",
         { "beat": 2 },
         "| 14", "r 2b", "cs 2b", "e 2b",
-        "| 15", "e 2b.", "e", { "name": "a 2b", "sustain": -2 },
-        "| 16", "a 2b", "a 2b", { "name": "b 2b", "sustain": -2 },
+        "| 15", { "name": "e 2b.", "sustain": true }, "e", "a 2b",
+        "| 16", { "name": "a 2b", "sustain": true }, "a 2b", { "name": "b 2b", "sustain": -2 },
         "| 17", "a 4b", "r 2b"
     ]
 }

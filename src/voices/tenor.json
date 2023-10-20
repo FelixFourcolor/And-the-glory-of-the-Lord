@@ -15,8 +15,8 @@
         "||12",
         "||13",
         "| 14", "r 2b", "e^ 2b", "e^ 2b",
-        "| 15", "gs 2b.", "gs", { "name": "a 2b", "sustain": -2 },
-        "| 16", "a 2b", "a 2b", "b 2b",
-        "| 17", "cs^ 4b", "e 2b"
+        "| 15", { "name": "gs 2b.", "sustain": true }, "gs", "a 2b",
+        "| 16", { "name": "a 2b", "sustain": true }, "a 2b", "b 2b",
+        "| 17", { "name": "cs^ 4b", "sustain": -2 }, "e 2b"
     ]
 }
