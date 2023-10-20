@@ -6,14 +6,15 @@
     "dynamic": 2,
     "sustainDynamic": "-1",
     "voices": [
+        { "instrument": "bell", "notes": "orchestra/violin I.json" },
         "voices/soprano.json",
-        "orchestra/cello.json",
         "voices/alto.json",
-        "orchestra/double bass.json",
+        "orchestra/cello.json",
         "orchestra/violin I.json",
+        "orchestra/double bass.json",
         "orchestra/violin II.json",
-        "voices/bass.json",
         "orchestra/viola.json",
+        "voices/bass.json",
         "voices/tenor.json"
     ]
 }
