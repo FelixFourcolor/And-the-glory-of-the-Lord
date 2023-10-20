@@ -1,6 +1,6 @@
 [
     { "beat": 4 },
-    "| 1", { "dynamic": 3 }, "a_ 2b", "a",
+    "| 1", "a_ 2b", "a",
     "| 2", { "name": "gs", "sustain": true }, "e", "a",
     "| 3", { "name": "d^", "sustain": true }, "b", { "name": "e^", "sustain": -2 },
     "| 4", "cs^", "a", "cs^",
@@ -11,7 +11,7 @@
     "| 9", { "name": "gs", "sustain": true }, "e", "fs",
     "| 10", { "name": "d", "sustain": true }, "e", { "name": "e_", "transpose": 12, "sustain": -2 },
     "| 11", "a_ 2b", "r",
-    "| 12", { "dynamic": 2 }, "r", "cs", "a_",
+    "| 12", "r", "cs", "a_",
     "| 13", { "name": "d", "sustain": true }, "b_", { "name": "e", "sustain": -2 },
     "| 14", "a_", { "dynamic": 3 }, "cs", "a_",
     "| 15", { "name": "e .", "sustain": true }, { "name": "d", "beat": 2 }, "cs",
