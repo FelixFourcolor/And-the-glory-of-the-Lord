@@ -14,9 +14,10 @@
         { "notes": "voices/alto.json", "instrument": "pling" },
         { },
         { },
+        { },
         { "notes": "orchestra/violin II.json", "instrument": "bit" },
-        { "notes": "orchestra/viola.json", "instrument": "harp" },
         { "notes": "voices/bass.json", "instrument": "guitar" },
-        { "notes": "voices/tenor.json", "instrument": "guitar" }
+        { "notes": "voices/tenor.json", "instrument": "guitar" },
+        { "notes": "orchestra/viola.json", "instrument": "harp" }
     ]
 }
