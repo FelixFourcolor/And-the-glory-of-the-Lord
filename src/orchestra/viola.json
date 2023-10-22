@@ -36,7 +36,7 @@
     "| 33", "r 2b", "e 2b", "b 2b",
     "| 34", { "name": "b 2b.", "sustain": true }, "b", "b 2b",
     "| 35", { "name": "cs^ 2b", "sustain": true }, "cs^ 2b", { "name": "b 2b", "sustain": -2 },
-    "| 36", "b 2b.", { "name": "b", "sustain": true }, "a 2b",
+    "| 36", "b 2b.", { "name": "b", "sustain": true }, { "name": "a 2b", "sustain": true },
     "| 37", { "name": "b 2b", "sustain": true }, { "name": "b 4b", "sustain": true },
     "| 38", "b 2b", "b 4b",
     "| 39"

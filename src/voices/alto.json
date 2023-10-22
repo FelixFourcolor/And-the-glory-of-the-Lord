@@ -34,7 +34,7 @@
     "| 33", { "name": "b_ 2b", "dynamic": 1, "sustain": -2 }, "b_ 2b", "b_ 2b",
     "| 34", { "name": "b 2b.", "sustain": true }, "b", "b 2b",
     "| 35", { "name": "a 2b", "sustain": true }, "a 2b", "a 2b",
-    "| 36", "gs 2b.", "e", { "name": "fs 2b", "sustain": true },
+    "| 36", "gs 2b.", { "name": "e", "sustain": true }, "fs 2b",
     "| 37", { "name": "gs 2b", "sustain": true }, "fs 4b",
     "| 38", { "name": "gs 6b", "dynamic": 1, "sustain": true }
 ]
