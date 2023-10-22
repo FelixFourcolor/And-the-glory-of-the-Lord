@@ -1,5 +1,5 @@
 [
-    { "beat": 4, "dynamic": 3 },
+    { "beat": 4 },
     "| 1", "a_ 2b", "a",
     "| 2", { "name": "gs", "sustain": true }, "e", "a",
     "| 3", { "name": "d^", "sustain": true }, "b", { "name": "e^", "sustain": -2 },
