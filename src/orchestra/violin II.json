@@ -9,13 +9,13 @@
     "| 8, fs 2b.", { "name": "a", "sustain": true }, { "name": "gs", "sustain": true }, "fs",
     "| 9", { "name": "e 2b", "sustain": true }, "gs 2b", { "name": "a 2b", "sustain": true },
     "| 10, a 4b", { "name": "gs 2b", "sustain": -2 },
-    "| 11, a 4b, r 2b",
+    "| 11", { "name": "a 4b", "sustain": true }, "r 2b",
     "||12",
     "||13",
     "| 14, r 2b, a 2b, cs^ 2b",
     "| 15", { "name": "b 2b.", "sustain": true }, "b", { "name": "a^ 2b", "sustain": true },
     "| 16", { "name": "a^ 2b", "sustain": true }, "a^ 2b, e^ 2b",
-    "| 17, e^ 4b, r 2b",
+    "| 17", { "name": "e^ 4b", "sustain": true }, "r 2b",
     "||18",
     "||19",
     "||20",
@@ -36,5 +36,10 @@
     "| 35", { "name": "e^ 2b", "sustain": true }, "e^ 2b, fs^ 2b",
     "| 36, b 2b.", { "name": "cs^", "sustain": true }, { "name": "ds^ 2b", "sustain": true },
     "| 37, e^ 4b", { "name": "ds^ 2b", "sustain": true },
-    "| 38, e^ 2b", { "name": "b 2b", "sustain": -2 }, { "name": "e^ 2b 2b", "sustain": true }
+    "| 38, e^ 2b", { "name": "b 2b", "sustain": -2 }, { "name": "e^ 2b 2b", "sustain": true },
+    "ds^ 4b",
+    "| 40, cs^ 2b.", { "name": "e^, ds^", "sustain": true }, "cs^",
+    "| 41", { "name": "b 2b", "sustain": true }, "ds^ 2b, e^ 2b",
+    "| 42, e^ 4b", { "name": "ds^ 2b", "sustain": -2 },
+    "| 43", { "name": "e^ 4b", "sustain": true }, "r 2b"
 ]

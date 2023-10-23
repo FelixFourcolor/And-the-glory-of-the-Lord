@@ -10,10 +10,10 @@
     "| 8", { "name": "a", "sustain": true }, "fs, b",
     "| 9", { "name": "gs", "sustain": true }, "e, fs",
     "| 10", { "name": "d", "sustain": true }, "e", { "name": "e_", "transpose": 12, "sustain": -2 },
-    "| 11, a_ 2b, r",
+    "| 11", { "name": "a_ 2b", "sustain": true }, "r",
     "| 12, r, cs, a_",
     "| 13", { "name": "d", "sustain": true }, "b_", { "name": "e", "sustain": -2 },
-    "| 14, a_", { "beat": 2 }, "cs 2b, a_ 2b",
+    "| 14", { "name": "a_", "sustain": true }, { "beat": 2 }, "cs 2b, a_ 2b",
     "| 15", { "name": "e 2b.", "sustain": true }, "d, cs 2b",
     "| 16", { "name": "fs 2b", "sustain": true }, "fs 2b", { "name": "gs 2b", "sustain": -2 },
     "| 17, a 2b", { "beat": 4 }, "a_, cs",
@@ -37,6 +37,10 @@
     "| 35", { "name": "cs^ 2b", "sustain": true }, "cs 2b, ds 2b",
     "| 36, e 2b.", { "transpose": 12 }, { "name": "gs_", "sustain": true }, "fs_ 2b",
     "| 37", { "name": "e_ 2b", "sustain": true }, { "name": "b_ 4b", "transpose": 0, "sustain": true },
-    "| 38, e_ 2b", { "beat": 4, "transpose": 0 }, "e, gs",
-    "| 39"
+    "| 38, e_ 2b", { "beat": 4, "transpose": 0 }, { "name": "e", "sustain": true }, "gs",
+    "| 39, b, b_, b",
+    "| 40", { "name": "cs^", "sustain": true }, "fs, e",
+    "| 41, ds, b_, cs",
+    "| 42", { "name": "a_", "sustain": true }, "b_ 2b",
+    "| 43", "e"
 ]

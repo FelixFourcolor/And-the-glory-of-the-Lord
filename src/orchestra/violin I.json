@@ -9,13 +9,13 @@
     { "name": "d 4b 2b.", "sustain": true },
     "e, cs 2b 1b",
     "b_", { "name": "cs 2b.", "trill": "b_ 2b." }, "a_",
-    "| 11, a_ 4b, r 2b",
+    "| 11", { "name": "a_ 4b", "sustain": true }, "r 2b",
     "||12",
     "||13",
     "| 14, r 2b, e 2b, a 2b",
     "| 15", { "name": "gs 2b.", "sustain": true }, "fs, e 2b",
     "| 16", { "name": "d^ 2b", "sustain": true }, "d^ 2b", { "name": "b 2b", "sustain": -2 },
-    "| 17, cs^ 4b, r 2b",
+    "| 17", { "name": "cs^ 4b", "sustain": true }, "r 2b",
     "||18",
     "||19",
     "||20",
@@ -37,5 +37,9 @@
     "| 36, gs 2b.", { "name": "e", "sustain": true }, { "name": "fs 2b", "sustain": true },
     "| 37", { "name": "gs 2b", "sustain": true }, { "name": "fs 4b", "sustain": true },
     "| 38, gs 2b.", { "name": "b", "sustain": true }, { "name": "a", "sustain": true }, "gs",
-    "| 39"
+    "| 39, fs 2b.", { "name": "a", "sustain": true }, { "name": "gs", "sustain": true }, "fs",
+    "| 40", { "name": "e 2b", "sustain": -2 }, "a 4b 2b.",
+    "b, gs 2b 1b",
+    "fs", { "name": "gs 2b.", "trill": "fs 2b." }, "e",
+    "| 43", { "name": "e 4b", "sustain": true }, "r 2b"
 ]
