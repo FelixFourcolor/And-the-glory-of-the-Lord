@@ -12,7 +12,6 @@
     "||11",
     "||12",
     "||13",
-    { "dynamic": 3, "sustainDynamic": 2 },
     "| 14, r 2b, e^ 2b", { "name": "e^ 2b", "dynamic": 2 },
     "| 15", { "name": "gs 2b.", "sustain": true }, "gs", { "name": "a 2b", "dynamic": 2 },
     "| 16", { "name": "a 2b", "sustain": true }, "a 2b", { "name": "b 2b", "dynamic": 2 },
@@ -35,7 +34,7 @@
     "| 33, r 2b, e^ 2b", { "name": "gs^ 2b", "dynamic": 2 },
     "| 34", { "name": "fs^ 2b.", "sustain": true }, "fs^", { "name": "e^ 2b", "dynamic": 2 },
     "| 35", { "name": "e^ 2b", "sustain": true }, "e^ 2b", { "name": "fs^ 2b", "dynamic": 2 },
-    "| 36", { "name": "e^ 2b. -2", "sustain": true }, { "name": "e^ 2", "dynamic": 1 }, { "name": "b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 2 },
+    "| 36", "e^ 2b.", { "name": "b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 2 },
     "| 37", { "name": "b 2b", "sustain": true }, "b 4b",
-    "| 38", { "name": "b 3b", "dynamic": 2, "sustain": true }, { "name": "b 3b", "dynamic": 1, "sustainDynamic": 1, "sustain": true }
+    "| 38", { "name": "b 4b", "dynamic": 2, "sustain": true }, { "name": "b 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true }
 ]
