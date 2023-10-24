@@ -42,5 +42,21 @@
     "| 40", { "name": "cs^", "sustain": true }, "fs, e",
     "| 41, ds, b_, cs",
     "| 42", { "name": "a_", "sustain": true }, "b_ 2b",
-    "| 43", "e"
+    "| 43, e, cs, a_",
+    "| 44, e, cs, a_",
+    "| 45, e, cs^, a",
+    "| 46, e^, gs, e",
+    "| 47, a 2b, gs",
+    "| 48, a, fs, d",
+    "| 49, a, fs, d",
+    "| 50, a, fs, d",
+    { "beat": 2 },
+    "| 51, a 6b",
+    "| 52, a 6b",
+    "| 53, a 6b",
+    "| 54, a 4b, a 2b",
+    "| 55, a 4b, a 2b",
+    "| 56, b 4b, b 2b",
+    "| 57", { "name": "a 4b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true },
+    "| 58"
 ]

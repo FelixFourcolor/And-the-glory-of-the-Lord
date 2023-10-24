@@ -41,5 +41,20 @@
     "| 40", { "name": "e 2b", "sustain": -2 }, "a 4b 2b.",
     "b, gs 2b 1b",
     "fs", { "name": "gs 2b.", "trill": "fs 2b." }, "e",
-    "| 43", { "name": "e 4b", "sustain": true }, "r 2b"
+    "| 43", { "name": "e 2b", "sustain": true }, { "name": "e 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true }, "r 2b",
+    "||44",
+    "||45",
+    "| 46, r 2b", { "name": "b_ 2b, e 2b", "sustain": -2 },
+    "| 47, cs 2b, r 4b",
+    "||48",
+    "||49",
+    "| 50, r 2b", { "name": "a 2b, d^ 2b", "sustain": -2 },
+    "| 51", { "name": "cs^, b", "sustain": true }, "a 2b, r 2b",
+    "||52",
+    "| 53, r 2b", { "name": "a 2b, d^ 2b", "sustain": -2 },
+    "| 54", { "name": "cs^, b", "sustain": true }, { "name": "a 2b, d^ 2b" },
+    "| 55", { "name": "cs^, b", "sustain": true }, { "name": "a 2b, cs^ 2b" },
+    "| 56", "d^ 2b.", { "name": "cs^, d^", "sustain": true }, "e^",
+    "| 57", { "name": "cs^, e, a_, b_, cs, d", "sustain": true },
+    "| 58"
 ]
