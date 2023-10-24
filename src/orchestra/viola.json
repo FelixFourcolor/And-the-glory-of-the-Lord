@@ -17,7 +17,7 @@
     "| 14, r 2b, cs 2b, e 2b",
     "| 15", { "name": "e 2b.", "sustain": true }, "e", { "name": "a 2b", "sustain": true },
     "| 16", { "name": "a 2b", "sustain": true }, "a 2b, b 2b",
-    "| 17", { "name": "a 4b", "sustain": true }, "r 2b",
+    "| 17, a 4b, r 2b",
     "||18",
     "||19",
     "||20",
