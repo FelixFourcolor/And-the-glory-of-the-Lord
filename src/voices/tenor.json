@@ -54,7 +54,7 @@
     "| 53, a 6b",
     "| 54, a 4b, a 2b",
     "| 55, a 4b, a 2b",
-    "| 56, fs^ 2b, d^ 4b",
+    "| 56", { "name": "fs^ 2b", "sustain": true }, "d^ 4b",
     "| 57", { "name": "e^ 4b", "dynamic": 2, "sustain": true }, { "name": "e^ 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true },
     "| 58"
 ]
