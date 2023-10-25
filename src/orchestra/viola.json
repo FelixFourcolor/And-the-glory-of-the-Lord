@@ -43,7 +43,7 @@
     "| 40", { "name": "gs 2b", "sustain": true }, "fs 2b, fs 2b",
     "| 41", { "name": "fs 2b", "sustain": true }, "fs 2b, e 2b",
     "| 42", { "name": "cs^ 2b", "sustain": true }, "fs 2b, b 2b",
-    "| 43", { "name": "b 2b", "sustain": true }, { "name": "b 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true }, "r 2b",
+    "| 43", { "name": "b 4b", "sustain": true }, "r 2b",
     "||44",
     "||45",
     "| 46, r 2b", { "name": "b 2b, b 2b", "sustain": -2 },

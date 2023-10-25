@@ -41,7 +41,7 @@
     "| 40, cs^ 2b.", { "name": "e^, ds^", "sustain": true }, "cs^",
     "| 41", { "name": "b 2b", "sustain": true }, "ds^ 2b, e^ 2b",
     "| 42, e^ 4b", { "name": "ds^ 2b", "sustain": -2 },
-    "| 43", { "name": "e^ 2b", "sustain": true }, { "name": "e^ 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true }, "r 2b",
+    "| 43", { "name": "e^ 4b", "sustain": true }, "r 2b",
     "||44",
     "||45",
     "| 46, r 2b", { "name": "e 2b, gs 2b", "sustain": -2 },
