@@ -21,7 +21,7 @@
     "| 20", { "name": "b 2b", "dynamic": 2 }, { "name": "b 2b", "dynamic": 2, "sustain": -2 }, "r 2b",
     "||21",
     "| 22, r 2b, gs 2b", { "name": "e 2b", "dynamic": 2 },
-    "| 23", { "name": "a 2b.", "sustain": true }, "gs", { "name": "fs 2b", "dynamic": 2 },
+    "| 23", { "name": "b 2b.", "sustain": true }, "a", { "name": "gs 2b", "dynamic": 2 },
     "| 24", { "name": "cs^ 2b", "sustain": true }, "cs^ 2b", { "name": "ds^ 2b", "dynamic": 2 },
     "| 25", { "name": "e^ 6b", "sustain": true },
     "||26",
