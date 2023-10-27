@@ -56,5 +56,11 @@
     "| 55", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 2, "sustain": true }, { "name": "cs 2b", "dynamic": 2 }, { "name": "a 2b -1", "dynamic": 2, "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 56", { "name": "a 2b", "sustain": true }, { "name": "gs 4b", "dynamic": 2 },
     "| 57", { "name": "a 4b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true },
-    "| 58"
+    "||58",
+    "| 59, r 2b, gs 2b, a 2b",
+    "| 60, e 4b, e 2b",
+    "| 61", { "name": "b 2b", "sustain": true }, "b 2b", { "name": "a 2b -1", "sustain": true }, { "name": "a 1", "dynamic": 1 },
+    "| 62, a 6b",
+    "| 63", { "name": "a 2b", "sustain": -2 }, { "name": "e 2b", "sustain": true }, "a 2b",
+    "| 64"
 ]

@@ -57,6 +57,11 @@
     "| 54, a 4b", { "name": "a 2b", "sustain": true },
     "| 55, a 4b", { "name": "a 2b", "sustain": true },
     "| 56, b 4b, b 2b",
-    "| 57, a 6b",
-    "| 58"
+    "| 57", { "name": "a 6b", "sustain": true },
+    "||58",
+    "| 59, r 2b, e 2b, a 2b",
+    "| 60", { "name": "gs, fs", "sustain": true }, "e 2b, a 2b",
+    "| 61", { "name": "gs, fs", "sustain": true }, "e 2b, a 2b",
+    "| 62", { "name": "d, cs, d, e, fs, gs", "sustain": true, "dynamic": 2, "sustainDynamic": 2 },
+    "| 63, a 2b, cs 2b, a_ 2b"
 ]

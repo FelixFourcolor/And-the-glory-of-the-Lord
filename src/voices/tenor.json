@@ -56,5 +56,11 @@
     "| 55, a 4b", { "name": "a 2b -1", "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 56", { "name": "fs^ 2b", "sustain": true }, "d^ 4b",
     "| 57", { "name": "e^ 4b", "dynamic": 2, "sustain": true }, { "name": "e^ 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true },
-    "| 58"
+    "||58",
+    "| 59, r 2b, b 2b, cs^ 2b",
+    "| 60", { "name": "b", "sustain": true }, { "name": "a", "dynamic": 2, "sustain": true }, { "name": "gs 2b, cs^ 2b", "dynamic": 2 },
+    "| 61", { "name": "b", "sustain": true }, { "name": "a", "dynamic": 2, "sustain": true }, { "name": "gs 2b", "dynamic": 2 }, { "name": "cs^ 2b -1", "sustain": true }, { "name": "cs^ 1", "dynamic": 1 },
+    "| 62, d^ 6b",
+    "| 63", { "name": "cs^ 2b", "sustain": true }, { "name": "cs^ 2b", "sustain": true, "dynamic": 1, "sustainDynamic": 1 }, "r 2b",
+    "| 64"
 ]
