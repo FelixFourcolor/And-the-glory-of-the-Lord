@@ -52,8 +52,8 @@
     "| 51", { "name": "e^, d", "sustain": true }, "cs 2b, r 2b",
     "||52",
     "| 53, r 2b", { "name": "cs^ 2b, fs^ 2b", "sustain": -2 },
-    "| 54", { "name": "e^, d^", "sustain": true }, { "name": "cs^ 2b, fs^ 2b" },
-    "| 55", { "name": "e^, d^", "sustain": true }, { "name": "cs^ 2b, a^ 2b" },
+    "| 54", { "name": "e^, d^", "sustain": true }, { "name": "cs^ 2b, fs^ 2b", "sustain": -2 },
+    "| 55", { "name": "e^, d^", "sustain": true }, { "name": "cs^ 2b", "sustain": -2 }, { "name": "a^ 2b", "sustain": true },
     "| 56", { "name": "a^ 2b", "sustain": true }, "gs^ 4b",
     "| 57", "a^ 2b", { "name": "cs^, b, a, b", "sustain": true },
     "| 58"

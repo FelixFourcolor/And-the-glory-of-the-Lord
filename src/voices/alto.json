@@ -43,7 +43,7 @@
     "||42",
     "| 43, r 2b, e 2b, a 2b",
     "| 44", { "name": "gs", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e 2b, a 2b", "dynamic": 2 },
-    "| 45", { "name": "gs", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e 2b, a 2b", "dynamic": 2 },
+    "| 45", { "name": "gs", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e 2b", "dynamic": 2 }, { "name": "a 2b -1", "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 46", { "name": "gs", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e 2b", "dynamic": 2, "sustain": true }, "r 2b",
     "||47",
     "||48",
@@ -53,7 +53,7 @@
     "||52",
     "| 53, r 2b, cs 2b, fs 2b",
     "| 54", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 2, "sustain": true }, { "name": "cs 2b, fs 2b", "dynamic": 2 },
-    "| 55", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 2, "sustain": true }, { "name": "cs 2b, a 2b", "dynamic": 2 },
+    "| 55", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 2, "sustain": true }, { "name": "cs 2b", "dynamic": 2 }, { "name": "a 2b -1", "dynamic": 2, "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 56", { "name": "a 2b", "sustain": true }, { "name": "gs 4b", "dynamic": 2 },
     "| 57", { "name": "a 4b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 1, "sustainDynamic": 1, "sustain": true },
     "| 58"

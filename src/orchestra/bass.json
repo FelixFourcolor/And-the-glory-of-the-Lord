@@ -54,8 +54,8 @@
     "| 51, a 6b",
     "| 52, a 6b",
     "| 53, a 6b",
-    "| 54, a 4b, a 2b",
-    "| 55, a 4b, a 2b",
+    "| 54, a 4b", { "name": "a 2b", "sustain": true },
+    "| 55, a 4b", { "name": "a 2b", "sustain": true },
     "| 56, b 4b, b 2b",
     "| 57, a 6b",
     "| 58"

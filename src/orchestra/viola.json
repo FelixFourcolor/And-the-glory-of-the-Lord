@@ -55,7 +55,7 @@
     "||52",
     "| 53, r 2b, a 2b, a 2b",
     "| 54, a 4b, a_ 2b",
-    "| 55, a 4b, a 2b",
+    "| 55, a 4b", { "name": "a 2b", "sustain": true },
     "| 56", { "name": "fs 2b", "sustain": true }, "d 4b",
     "| 57", { "name": "e 6b", "sustain": true }
 ]
