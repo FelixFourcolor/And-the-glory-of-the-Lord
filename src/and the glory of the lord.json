@@ -8,8 +8,8 @@
     "voices": [
         { "notes": "voices/soprano.json", "instrument": "flute" },
         { },
-        { "notes": "orchestra/violin I.json", "instrument": "bell" },
         { "notes": "voices/soprano.json", "instrument": "pling" },
+        { "notes": "orchestra/violin I.json", "instrument": "bell" },
         { },
         { "notes": "voices/alto.json", "instrument": "pling" },
         { },
