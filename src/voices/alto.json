@@ -41,7 +41,7 @@
     "||40",
     "||41",
     "||42",
-    "| 43, r 2b, e 2b, a 2b",
+    "| 43, r 2b", { "name": "e 2b -1", "sustain": true }, { "name": "e 1", "dynamic": 1 }, "a 2b",
     "| 44", { "name": "gs", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e 2b, a 2b", "dynamic": 2 },
     "| 45", { "name": "gs", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e 2b", "dynamic": 2 }, { "name": "a 2b -1", "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 46", { "name": "gs", "sustain": true }, { "name": "fs", "dynamic": 2, "sustain": true }, { "name": "e 2b", "dynamic": 2, "sustain": true }, "r 2b",
@@ -51,7 +51,7 @@
     "||50",
     "||51",
     "||52",
-    "| 53, r 2b, cs 2b, fs 2b",
+    "| 53, r 2b", { "name": "cs 2b -1", "sustain": true }, { "name": "cs 1", "dynamic": 1 }, "fs 2b",
     "| 54", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 2, "sustain": true }, { "name": "cs 2b, fs 2b", "dynamic": 2 },
     "| 55", { "name": "e", "sustain": true }, { "name": "d", "dynamic": 2, "sustain": true }, { "name": "cs 2b", "dynamic": 2 }, { "name": "a 2b -1", "dynamic": 2, "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 56", { "name": "a 2b", "sustain": true }, { "name": "gs 4b", "dynamic": 2 },
@@ -61,6 +61,6 @@
     "| 60, e 4b, e 2b",
     "| 61", { "name": "b 2b", "sustain": true }, "b 2b", { "name": "a 2b -1", "sustain": true }, { "name": "a 1", "dynamic": 1 },
     "| 62, a 6b",
-    "| 63", { "name": "a 2b", "sustain": -2 }, { "name": "e 2b", "sustain": true }, "a 2b",
+    "| 63", { "name": "a 2b", "sustain": -2 }, { "name": "e 2b -1", "sustain": true }, { "name": "e 1", "dynamic": 1 }, "a 2b",
     "| 64"
 ]
