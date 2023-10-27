@@ -67,5 +67,12 @@
     "||66",
     "||67",
     "||68",
-    "| 69"
+    "| 69, r 2b", { "name": "b 2b, e^ 2b", "sustain": -2 },
+    "| 70", { "name": "ds^, cs^", "sustain": true }, { "name": "b 2b, e^ 2b", "sustain": -2 },
+    "| 71", { "name": "ds^, cs^", "sustain": true }, { "name": "b 2b", "sustain": -2 }, { "name": "ds^ 2b", "sustain": true },
+    "| 72, e^ 6b",
+    "| 73", { "name": "ds^ 2b", "sustain": true }, "b 2b, fs 2b",
+    "| 74", { "name": "ds^ 2b.", "sustain": true }, "cs^, b 2b",
+    "| 75", { "name": "b 2b", "sustain": true }, "b 2b, e^ 2b",
+    "| 76, ds^ 2b"
 ]
