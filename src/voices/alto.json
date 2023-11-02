@@ -15,7 +15,7 @@
     "| 14", { "name": "a 6b", "dynamic": 4, "sustain": true },
     "| 15, r 4b", { "name": "a 2b", "dynamic": 2 },
     "| 16", { "name": "a 2b", "sustain": true }, "a 2b", { "name": "e 2b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "| 17", { "name": "e 4b", "sustain": -2 }, "r 2b",
+    "| 17", { "name": "e 4b", "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "r 2b",
     "||18",
     "||19",
     "||20",

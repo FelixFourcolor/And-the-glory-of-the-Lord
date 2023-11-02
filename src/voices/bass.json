@@ -15,7 +15,7 @@
     "| 14, r 2b", { "name": "cs 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "a_ 2b",
     "| 15", { "name": "e 2b.", "sustain": true }, "d", { "name": "cs 2b", "dynamic": 2 },
     "| 16", { "name": "fs 2b", "sustain": true }, "fs 2b", { "name": "gs 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "| 17", { "name": "a 4b", "sustain": -2 }, "r 2b",
+    "| 17", { "name": "a 4b", "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "r 2b",
     "||18",
     "| 19, r 4b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 20", { "name": "gs 2b.", "dynamic": 4 }, { "name": "b", "sustain": true }, { "name": "a", "dynamic": 2, "sustain": true }, { "name": "gs", "dynamic": 2 },

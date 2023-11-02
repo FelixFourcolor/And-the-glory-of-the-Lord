@@ -82,7 +82,7 @@
     { "beat": 2 },
     "| 76", { "name": "b 2b", "sustain": true }, "ds 2b, b_ 2b",
     "| 77", { "name": "fs 2b.", "sustain": true }, "e, ds 2b",
-    "| 78", { "name": "gs 2b", "sustain": true }, "gs 2b, as 2b",
+    "| 78", { "name": "gs 2b", "sustain": true }, "gs 2b", { "name": "as 2b", "sustain": -2 },
     "| 79, b 2b, ds 2b, b_ 2b",
     "| 80", { "name": "fs 2b", "sustain": true }, "fs 2b, b_ 2b",
     "| 81, fs 4b", { "name": "b 2b", "sustain": -2 },
