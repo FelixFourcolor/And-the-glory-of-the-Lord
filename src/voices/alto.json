@@ -9,7 +9,7 @@
     "||8",
     "||9",
     "||10",
-    "| 11, r 2b", { "name": "cs 2b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "a_ 2b",
+    "| 11, r 2b", { "name": "cs 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "a_ 2b",
     "| 12", { "name": "e 2b.", "dynamic": 4, "sustain": true }, "d, cs 2b",
     "| 13", { "name": "fs 2b", "dynamic": 4, "sustain": true }, "fs 2b", { "name": "gs 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 14", { "name": "a 6b", "dynamic": 4, "sustain": true },
