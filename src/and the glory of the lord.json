@@ -15,7 +15,6 @@
         { "notes": "orchestra/bass.json", "instrument": "guitar" },
         { },
         { },
-        { },
         { "notes": "orchestra/violin I.json", "instrument": "flute", "dynamic": 2, "sustainDynamic": 1 },
         { "notes": "orchestra/violin II.json", "instrument": "harp", "dynamic": 2, "sustainDynamic": 1 },
         { "notes": "orchestra/violin II.json", "instrument": "bit", "dynamic": 2, "sustainDynamic": 1 },
