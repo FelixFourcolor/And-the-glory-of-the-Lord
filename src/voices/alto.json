@@ -66,7 +66,7 @@
     "| 65", "r 2b", { "name": "fs 2b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "b 2b",
     "| 66", { "name": "a", "dynamic": 4, "sustain": true }, { "name": "gs", "dynamic": 2, "sustain": true }, { "name": "fs 2b", "dynamic": 2 }, "fs 2b",
     "| 67", { "name": "gs 2b", "dynamic": 4, "sustain": true }, "gs 2b", { "name": "as 2b", "sustain": true },
-    "| 68", { "name": "b 4b", "dynamic": 4 }, "fs 2b",
+    "| 68", { "name": "b 4b", "dynamic": 4 }, { "name": "fs 2b", "dynamic": 2 },
     "| 69, r 2b", { "name": "ds 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "gs 2b",
     "| 70", { "name": "fs", "sustain": true }, { "name": "e", "dynamic": 2, "sustain": true }, { "name": "ds 2b", "dynamic": 2 }, "gs 2b",
     "| 71", { "name": "fs", "sustain": true }, { "name": "e", "dynamic": 2, "sustain": true }, { "name": "ds 2b", "dynamic": 2 }, { "name": "b 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
