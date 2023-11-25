@@ -94,5 +94,19 @@
     "| 93, r 2b, b_ 2b, b_ 2b",
     "| 94, b_ 6b 6b 2b",
     "b 2b, b 2b",
-    "| 97"
+    "| 97, b 6b 4b",
+    "b 2b 2b",
+    "a 4b 4b",
+    "gs 2b",
+    "| 101, fs 2b, fs 2b., fs",
+    "| 102", { "name": "gs 2b", "sustain": true }, { "name": "e 2b, a 2b", "sustain": -2 },
+    "| 103", { "name": "gs, fs", "sustain": true }, "e 2b, r 2b",
+    "| 104, r 2b", { "name": "e_ 2b, cs_ 2b", "transpose": 12, "sustain": -2 },
+    "| 105", { "name": "b__ 2b", "transpose": 12 }, "r 4b",
+    "| 106, r 2b, e 2b, e 2b",
+    "| 107", { "name": "e 2b", "sustain": true }, "cs 2b, a_ 2b",
+    "| 108", { "name": "e 2b.", "sustain": true }, "d, cs 2b",
+    "| 109", { "name": "fs 2b", "sustain": true }, "fs 2b", { "name": "gs 2b", "sustain": -2 },
+    "| 110", { "name": "a 6b", "sustain": true },
+    "| 111"
 ]

@@ -93,5 +93,21 @@
     "| 92", { "name": "ds, cs", "sustain": true }, { "name": "b_ 2b, ds 2b", "sustain": -2 },
     "| 93", { "name": "e 2b", "sustain": true }, "fs 2b., fs",
     "| 94, b_ 2b", { "name": "b_ 2b", "sustain": -2 }, "r 2b",
-    "| 95"
+    "| 95, r 2b, b 2b, b 2b",
+    "| 96, b 4b, a 2b",
+    "| 97, gs 4b, gs 2b",
+    "| 98", { "name": "fs 4b", "sustain": true }, "r 2b",
+    "| 99, r 2b", { "name": "e^ 2b", "sustain": true }, "fs^ 2b",
+    "| 100, b 4b", { "name": "e^ 2b 1b", "sustain": true },
+    "fs^, ds^ 2b., e^",
+    "| 102", { "name": "e^ 2b", "sustain": true }, { "name": "e 2b, cs 2b", "sustain": -2 },
+    "| 103, b_ 2b", { "name": "b 2b, e^ 2b", "sustain": -2 },
+    "| 104", { "name": "cs^, b", "sustain": true }, "a 2b, r 2b",
+    "| 105, r 4b, gs 2b",
+    "| 106", { "name": "a 2b", "sustain": true }, "b 2b., b",
+    "| 107", { "name": "a 2b", "sustain": true }, "cs^ 2b, a 2b",
+    "| 108", { "name": "e^ 2b.", "sustain": true }, "d^, cs^ 2b",
+    "| 109", { "name": "fs^ 2b", "sustain": true }, "fs^ 2b", { "name": "gs^ 2b", "sustain": -2 },
+    "| 110, a^ 2b, e 2b, a 2b",
+    "| 111"
 ]
