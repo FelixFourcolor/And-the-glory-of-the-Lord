@@ -93,5 +93,21 @@
     "||92",
     "| 93, r 2b", { "name": "b 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "b 2b",
     "| 94", { "name": "b 6b", "dynamic": 4 },
-    "| 95"
+    "| 95", { "name": "b 4b", "dynamic": 4 }, { "name": "b 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 96", { "name": "b 4b", "dynamic": 4 }, { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 97", { "name": "gs 4b", "dynamic": 4 }, "gs 2b",
+    "| 98", { "name": "fs 4b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ "2b", 2 ], [ "2b", 1 ] ] }, "r 2b",
+    "| 99, r 2b", { "name": "e^ 2b", "sustain": true }, { "name": "fs^ 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 100", { "name": "b 4b", "dynamic": 4, "sustain": true }, { "name": "e^ 2b 1b", "dynamic": 2, "sustain": true },
+    { "name": "fs^", "dynamic": 2, "sustain": true }, { "name": "ds^ 2b.", "dynamic": 2, "trill": "e^ -1" }, "ds^",
+    "| 102", { "name": "e^ 4b", "sustain": true, "sustainDynamic": [ [ "2b", 2 ], [ "2b", 1 ] ] }, "r 2b",
+    "||103",
+    "||104",
+    "||105",
+    "| 106, r 2b", { "name": "e^ 2b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "e^ 2b",
+    "| 107", { "name": "e^ 2b", "dynamic": 4, "sustain": true }, "cs^ 2b", { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 108", { "name": "e^ 2b.", "dynamic": 4, "sustain": true }, "d^", { "name": "cs^ 2b", "dynamic": 2 },
+    "| 109", { "name": "fs^ 2b", "dynamic": 4, "sustain": true }, "fs^ 2b", { "name": "gs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 110", { "name": "a^ 6b", "dynamic": 4, "sustain": true, "sustainDynamic": [ [ "2b", 2 ], [ "1b", 1 ] ] },
+    "| 111"
 ]
