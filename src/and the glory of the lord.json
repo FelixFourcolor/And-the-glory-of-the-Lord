@@ -1,0 +1,19 @@
+{
+    "time": 12,
+    "beat": 2,
+    "sustain": -1,
+    "transpose": 2,
+    "dynamic": 2,
+    "sustainDynamic": "-1",
+    "voices": [
+        "strings/cello.json",
+        "strings/double bass.json",
+        "strings/violin I.json",
+        "strings/violin II.json",
+        "strings/viola.json",
+        "voices/tenor.json",
+        "voices/bass.json",
+        "voices/soprano.json",
+        "voices/alto.json"
+    ]
+}
