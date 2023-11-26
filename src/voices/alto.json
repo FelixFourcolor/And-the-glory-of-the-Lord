@@ -105,7 +105,7 @@
     "||104",
     "| 105, r 4b", { "name": "gs 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 106", { "name": "a 2b", "dynamic": 4, "sustain": true }, "b 2b.", { "name": "b", "dynamic": 2, "sustain": true, "sustainDynamic": 1 },
-    "| 107", { "name": "e 2b", "sustain": 2 }, { "name": "e 2b", "dynamic": 2, "sustain": -2 }, "r 2b",
+    "| 107, e 2b", { "name": "e 2b", "dynamic": 2, "sustain": -2 }, "r 2b",
     "||108",
     "||109",
     "| 110, r 2b", { "name": "e 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "a 2b",
