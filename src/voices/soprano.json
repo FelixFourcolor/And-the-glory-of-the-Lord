@@ -126,7 +126,7 @@
     "| 125", { "name": "e^ 6b", "dynamic": 4 },
     "| 126", { "name": "e^ 4b", "dynamic": 4 }, { "name": "e^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 127", { "name": "e^ 2b.", "dynamic": 4, "sustain": true }, { "name": "d^", "dynamic": 2, "sustain": true }, { "name": "cs^ 2b", "dynamic": 2 },
-    "| 128", { "name": "d^ 2b", "dynamic": 2 }, "b 1", { "name": "cs^ 2b. -1", "dynamic": 2, "trill": "b -1", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "a", "dynamic": 2 },
+    "| 128", { "name": "d^ 2b", "dynamic": 2 }, "b 1", { "name": "cs^ 2b. -1", "dynamic": 2, "trill": "b -1", "sustain": true, "sustainDynamic": 2 }, { "name": "a", "dynamic": 2 },
     "| 129", { "name": "a 2b", "dynamic": 2, "sustain": -2 }, { "name": "a 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, { "name": "a 2b", "dynamic": 2 },
     "| 130, a 6b",
     "| 131, a 6b",
