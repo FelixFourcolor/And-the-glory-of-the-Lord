@@ -132,6 +132,6 @@
     "| 131", { "name": "cs^ 2b", "dynamic": 4 }, "a 2b", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 132", { "name": "cs^", "dynamic": 4, "sustain": true }, { "name": "b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 2 }, { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 133", { "name": "cs^ 2b", "dynamic": 4 }, "a 2b", { "name": "d^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "| 134", { "name": "cs^", "dynamic": 4, "sustain": true }, { "name": "b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 2 }, "r 2b",
+    "| 134", { "name": "cs^", "dynamic": 4, "sustain": true }, { "name": "b", "dynamic": 2, "sustain": true }, { "name": "a 2b", "dynamic": 2, "sustain": -2 }, "r 2b",
     "| 135"
 ]

@@ -131,7 +131,7 @@
     "| 130", { "name": "a 6b", "sustainDynamic": 1 },
     "| 131", { "name": "a 6b", "sustainDynamic": 1 },
     "| 132", { "name": "a 6b", "sustainDynamic": 1 },
-    "| 133", { "name": "a 6b 4b", "sustainDynamic": 1 },
+    "| 133", { "name": "a 6b 4b", "sustainDynamic": 1, "sustain": -2 },
     "r 2b",
     "| 135"
 ]
