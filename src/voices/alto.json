@@ -133,5 +133,9 @@
     "| 132", { "name": "a 6b", "sustainDynamic": 1 },
     "| 133", { "name": "a 6b 4b", "sustainDynamic": 1, "sustain": -2 },
     "r 2b",
-    "| 135"
+    { "time": 24, "beat": 8 },
+    "| 135, r 2b", { "name": "a", "sustain": true, "sustainDynamic": [ [ -2, 2 ], [ 2, 1 ] ] },
+    "| 136", { "name": "a 3b 2b", "dynamic": 4, "sustain": -4, "sustainDynamic": [ [ "2b", 1 ], [ "2b", 2 ], [ "1b -4", 3 ] ] },
+    { "name": "a", "dynamic": 3, "sustainDynamic": [ [ 4, 2 ], [ 3, 1 ] ] },
+    "| 138", { "name": "a 4b +4", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ "1b", 2 ], [ "3b +4", 1 ] ] }
 ]

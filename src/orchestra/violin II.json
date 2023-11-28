@@ -133,5 +133,9 @@
     "| 132", { "name": "e^, d^", "sustain": true }, "cs^ 2b", { "name": "fs^ 2b", "sustain": -2 },
     "| 133", { "name": "e^ 2b", "sustain": true }, "cs^ 2b", { "name": "fs^ 2b", "sustain": -2 },
     "| 134", { "name": "e^, d^", "sustain": true }, { "name": "cs^ 2b", "sustain": -2 }, "r 2b",
-    "| 135"
+    { "time": 24, "beat": 8 },
+    "| 135, r 2b", { "name": "cs", "sustain": -2 },
+    "| 136", { "name": "d 3b 2b", "sustain": -4 },
+    "d",
+    "| 138", { "name": "cs 4b", "sustain": true }
 ]

@@ -132,5 +132,9 @@
     "| 132", { "name": "a 6b", "sustain": true },
     "| 133, a 6b",
     "| 134", { "name": "a 2b, e 2b", "sustain": -2 }, "r 2b",
-    "| 135"
+    { "time": 24, "beat": 8 },
+    "| 135, r 2b", { "name": "e", "sustain": -2 },
+    "| 136", { "name": "fs 3b 2b", "sustain": -4 },
+    "fs",
+    "| 138", { "name": "e 4b", "sustain": true }
 ]
