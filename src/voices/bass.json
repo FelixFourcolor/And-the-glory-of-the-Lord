@@ -70,7 +70,7 @@
     "| 69", { "name": "b 6b", "dynamic": 4 },
     "| 70, b 4b", { "name": "b 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 71, b 4b", { "name": "b 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "| 72, cs^ 4b", { "name": "cs^ 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
+    "| 72, cs^ 4b, cs^ 2b",
     "| 73", { "name": "b 6b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ "2b", 2 ], [ "4b", 1 ] ] },
     "||74",
     "||75",

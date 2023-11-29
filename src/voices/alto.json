@@ -70,7 +70,7 @@
     "| 69, r 2b", { "name": "ds 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] }, "gs 2b",
     "| 70", { "name": "fs", "sustain": true }, { "name": "e", "dynamic": 2, "sustain": true }, { "name": "ds 2b", "dynamic": 2 }, "gs 2b",
     "| 71", { "name": "fs", "sustain": true }, { "name": "e", "dynamic": 2, "sustain": true }, { "name": "ds 2b", "dynamic": 2 }, { "name": "b 2b", "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
-    "| 72", { "name": "b 4b", "sustain": true }, { "name": "as 2b", "dynamic": 2 },
+    "| 72", { "name": "b 4b", "sustain": true }, { "name": "as 2b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ -1, 2 ], [ 1, 1 ] ] },
     "| 73", { "name": "b 6b", "dynamic": 2, "sustain": true, "sustainDynamic": [ [ "2b", 2 ], [ "4b", 1 ] ] },
     "||74",
     "||75",
