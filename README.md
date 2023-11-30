@@ -1,6 +1,8 @@
 # And the glory of the Lord
 "And the glory of the Lord" in Handel's Messiah, arranged for Minecraft's noteblocks.
 
+Recording: https://youtu.be/rgFYDXaD4A0
+
 ## Arrangement
 Instrumentation:
 * Soprano: pling + flute
@@ -12,7 +14,7 @@ Instrumentation:
 * Viola: harp
 * Cello: bass + guitar
 
-Tranposed down 3 semitones to better fit noteblock's ranges (I do not use any mods, such as those that extend ranges). However, a few notes still do not fit, then they are either transposed up/down an octave or played by a different instrument, depending on which sounds better to me.
+Tranposed down 3 semitones to better fit noteblock's ranges. However, a few notes still do not fit, then they are either transposed up/down an octave or played by a different instrument, depending on which sounds better to me.
 
 ## Play requirements
 Minecraft Java 1.20+ to play the pre-built world; 1.19+ if you build from source.
