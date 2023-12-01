@@ -3,6 +3,8 @@
 
 Recording: https://youtu.be/rgFYDXaD4A0
 
+Note: A few changes have been made since the release of the YouTube video. You can switch to the [YouTube branch](https://github.com/FelixFourcolor/And-the-glory-of-the-Lord/tree/YouTube) for an exact replica what was shown in the video. Otherwise, stay on the main branch for the latest version.
+
 ## Arrangement
 Instrumentation:
 * Soprano: pling + flute
