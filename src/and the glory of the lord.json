@@ -7,7 +7,7 @@
     "sustainDynamic": 2,
     "voices": [
         { "notes": "voices/soprano.json", "instrument": "flute" },
-        { },
+        { "notes": "orchestra/bass.json", "instrument": "bass" },
         { "notes": "orchestra/violin I.json", "instrument": "bell" },
         { "notes": "voices/soprano.json", "instrument": "pling" },
         { },
@@ -18,7 +18,7 @@
         { "notes": "orchestra/violin II.json", "instrument": "harp", "dynamic": 2, "sustainDynamic": 1 },
         { },
         { "notes": "orchestra/violin II.json", "instrument": "bit", "dynamic": 2, "sustainDynamic": 1 },
-        { "notes": "orchestra/bass.json", "instrument": "bass", "dynamic": 2, "sustainDynamic": 1 },
+        { },
         { "notes": "orchestra/viola.json", "instrument": "harp" },
         { },
         { "notes": "voices/bass.json", "instrument": "guitar" },
