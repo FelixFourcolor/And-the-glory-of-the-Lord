@@ -1,6 +1,7 @@
 {
     "time": 12,
     "beat": 2,
+    "tick": 21,
     "sustain": -1,
     "transpose": -3,
     "dynamic": 3,
